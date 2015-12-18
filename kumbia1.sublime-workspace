@@ -521,9 +521,14 @@
 	[
 	],
 	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
 	"command_palette":
 	{
 		"height": 292.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -571,7 +576,10 @@
 	},
 	"console":
 	{
-		"height": 125.0
+		"height": 125.0,
+		"history":
+		[
+		]
 	},
 	"distraction_free":
 	{
@@ -582,8 +590,23 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/var/www/kumbiaphp",
+		"/var/www/kumbiaphp/default",
+		"/var/www/kumbiaphp/default/app",
+		"/var/www/kumbiaphp/default/app/config"
+	],
 	"file_history":
 	[
+		"/var/www/kumbiaphp/default/app/views/index/index.phtml",
+		"/var/www/kumbiaphp/default/app/views/_shared/templates/default.phtml",
+		"/var/www/kumbiaphp/default/app/config/databases.ini",
+		"/var/www/kumbiaphp/core/libs/db/adapters/pdo/mysql.php",
+		"/var/www/kumbiaphp/default/app/views/_shared/partials/psuv/footer.phtml",
+		"/var/www/kumbiaphp/default/app/views/_shared/partials/psuv/top.phtml",
+		"/var/www/kumbiaphp/default/app/views/_shared/templates/csv.phtml",
+		"/var/www/kumbiaphp/default/app/config/config.ini",
 		"/var/www/incesequipos/equipos.sublime-project",
 		"/var/www/incesequipos/index.php",
 		"/var/www/incesequipos/archivos/menu.php",
@@ -703,19 +726,18 @@
 		"/home/regino/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
 		"/home/regino/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
 		"/home/regino/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
-		"/home/regino/.config/sublime-text-2/Packages/User/PHP.sublime-settings",
-		"/home/regino/.config/sublime-text-2/Packages/User/hetml5.sublime-snippet",
-		"/var/www/8d/index.html"
+		"/home/regino/.config/sublime-text-2/Packages/User/PHP.sublime-settings"
 	],
 	"find":
 	{
-		"height": 34.0
+		"height": 23.0
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 90.0,
 		"where_history":
 		[
+			"/var/www/kumbiaphp",
 			"div"
 		]
 	},
@@ -724,6 +746,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"<?php Tag::css('style') ?>",
+			"content",
 			"      <",
 			"></",
 			"        	$(\"#",
@@ -759,8 +783,8 @@
 			"tiny"
 		],
 		"reverse": false,
-		"show_context": true,
-		"use_buffer2": true,
+		"show_context": false,
+		"use_buffer2": false,
 		"whole_word": false,
 		"wrap": true
 	},
@@ -774,7 +798,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 23.0
 	},
 	"input":
 	{
@@ -803,14 +827,21 @@
 		]
 	},
 	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "kumbia1.sublime-project",
 	"replace":
 	{
-		"height": 62.0
+		"height": 42.0
 	},
 	"save_all_on_build": true,
 	"select_file":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
@@ -819,15 +850,32 @@
 	"select_project":
 	{
 		"height": 500.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
 		"width": 380.0
 	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 203.0,
-	"status_bar_visible": true
+	"side_bar_width": 275.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
 }
