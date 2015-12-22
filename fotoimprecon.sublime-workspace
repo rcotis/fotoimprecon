@@ -1,0 +1,952 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"listar",
+				"listarpersonal"
+			],
+			[
+				"perso",
+				"personal"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"pr",
+				"printf"
+			],
+			[
+				"echo",
+				"echo"
+			],
+			[
+				"re",
+				"result1"
+			],
+			[
+				"per",
+				"personal"
+			],
+			[
+				"persona",
+				"Personalinces"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"TD",
+				"td	Tag"
+			],
+			[
+				"TR",
+				"tr	Tag"
+			],
+			[
+				"t",
+				"td	Tag"
+			],
+			[
+				"r",
+				"report"
+			],
+			[
+				"co",
+				"condequipo"
+			],
+			[
+				"s",
+				"suministro"
+			],
+			[
+				"id",
+				"idimp1"
+			],
+			[
+				"for",
+				"formservice"
+			],
+			[
+				"fe",
+				"fechacambio2"
+			],
+			[
+				"a",
+				"actual"
+			],
+			[
+				"di",
+				"dif"
+			],
+			[
+				"ca",
+				"cantfechas"
+			],
+			[
+				"ar",
+				"arraycalc"
+			],
+			[
+				"con",
+				"condcalc"
+			],
+			[
+				"select",
+				"select"
+			],
+			[
+				"mysql_er",
+				"mysql_error"
+			],
+			[
+				"sele",
+				"select_array"
+			],
+			[
+				"c",
+				"calc"
+			],
+			[
+				"res",
+				"resultcalc"
+			],
+			[
+				"nu",
+				"numpag"
+			],
+			[
+				"so",
+				"solicitante1"
+			],
+			[
+				"no",
+				"noprocede"
+			],
+			[
+				"incl",
+				"incluircambio2"
+			],
+			[
+				"in",
+				"incluircambio1"
+			],
+			[
+				"MO",
+				"motivo"
+			],
+			[
+				"fecha",
+				"fechacambio"
+			],
+			[
+				"btn",
+				"btnguardartoner"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"if",
+				"ife	if … else"
+			],
+			[
+				"order",
+				"ordenar"
+			],
+			[
+				"fil",
+				"filtro"
+			],
+			[
+				"pag",
+				"pag"
+			],
+			[
+				"filtro",
+				"filtromarca"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"mysql_",
+				"mysql_fetch_array"
+			],
+			[
+				"cl",
+				"click"
+			],
+			[
+				"sql",
+				"sqlreg"
+			],
+			[
+				"mysq_nu",
+				"mysql_num_rows"
+			],
+			[
+				"mysq",
+				"mysql_query"
+			],
+			[
+				"idi",
+				"idimp"
+			],
+			[
+				"u",
+				"ultimoreg"
+			],
+			[
+				"ic",
+				"inicio"
+			],
+			[
+				"ubi",
+				"ubicadmin"
+			],
+			[
+				"ubica",
+				"ubicafis"
+			],
+			[
+				"pa",
+				"pag"
+			],
+			[
+				"bt",
+				"btnant"
+			],
+			[
+				"reg",
+				"regxpag"
+			],
+			[
+				"num",
+				"number_format"
+			],
+			[
+				"se",
+				"serial"
+			],
+			[
+				"codigo",
+				"codigoserial"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"arr",
+				"arrayop"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"prin",
+				"printer"
+			],
+			[
+				"ub",
+				"ubicadmin"
+			],
+			[
+				"mysql_i",
+				"mysql_insert_id"
+			],
+			[
+				"equi",
+				"equipo"
+			],
+			[
+				"eq",
+				"equipo2"
+			],
+			[
+				"idm",
+				"idmarca"
+			],
+			[
+				"ob",
+				"objmarca"
+			],
+			[
+				"mysql_fe",
+				"mysql_fetch_array"
+			],
+			[
+				"panel",
+				"panel1"
+			],
+			[
+				"div",
+				"div2model"
+			],
+			[
+				"ec",
+				"echo"
+			],
+			[
+				"ti",
+				"tipoequipo"
+			],
+			[
+				"fi",
+				"ffin"
+			],
+			[
+				"f",
+				"finicio"
+			],
+			[
+				"i",
+				"input	Tag"
+			],
+			[
+				"cod",
+				"codigo"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"det",
+				"detconsu"
+			],
+			[
+				"m",
+				"matriztoner"
+			],
+			[
+				"codi",
+				"codigogenerico"
+			],
+			[
+				"model",
+				"modelo"
+			],
+			[
+				"desc",
+				"desc1"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"o",
+				"objmostrar"
+			],
+			[
+				"tb",
+				"tbody	Tag"
+			],
+			[
+				"valore",
+				"valores"
+			],
+			[
+				"val",
+				"valores"
+			],
+			[
+				"v",
+				"valores"
+			],
+			[
+				"va",
+				"valores1"
+			],
+			[
+				"array_m",
+				"array_merge"
+			],
+			[
+				"prit",
+				"print_r"
+			],
+			[
+				"che",
+				"chequeo"
+			],
+			[
+				"ESTATUS",
+				"estatus"
+			],
+			[
+				"sel",
+				"selectedItems"
+			],
+			[
+				"enco",
+				"json_encode"
+			],
+			[
+				"ubic",
+				"ubicfis"
+			],
+			[
+				"de",
+				"descripcion"
+			],
+			[
+				"d",
+				"descripcion"
+			],
+			[
+				"form",
+				"formmarca"
+			],
+			[
+				"strt",
+				"strtoupper"
+			],
+			[
+				"n",
+				"newmarca"
+			],
+			[
+				"mar",
+				"marca1"
+			],
+			[
+				"new",
+				"newmarca"
+			],
+			[
+				"l",
+				"label	Tag"
+			],
+			[
+				"qu",
+				"query_db"
+			],
+			[
+				"DI",
+				"div	Tag"
+			],
+			[
+				"D",
+				"div	Tag"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"vol",
+				"volverimpresoras"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"col",
+				"color1bajo"
+			],
+			[
+				"cond",
+				"cond"
+			],
+			[
+				"list",
+				"list:n	list-style-type:none"
+			],
+			[
+				"cedula",
+				"cedula"
+			],
+			[
+				"cd",
+				"cedula"
+			],
+			[
+				"mysql",
+				"mysql_fetch_array"
+			],
+			[
+				"mysql_fetch",
+				"mysql_fetch_array"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"sc",
+				"script	Tag"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"fl",
+				"flag2"
+			],
+			[
+				"p",
+				"paginacion"
+			],
+			[
+				"clo",
+				"close_db"
+			],
+			[
+				"connect",
+				"connect_db"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "default/app/views/_shared/templates/default.phtml",
+			"settings":
+			{
+				"buffer_size": 622,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "default/app/views/_shared/partials/inicio/navbar.phtml",
+			"settings":
+			{
+				"buffer_size": 1694,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "default/app/views/_shared/partials/inicio/footer.phtml",
+			"settings":
+			{
+				"buffer_size": 156,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 372.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: boot",
+				"Snippet: Zurb 4 Column Layout"
+			],
+			[
+				"Snippet: html",
+				"Snippet: hetml5"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: c",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: sa",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Code Folding: Unfold All"
+			],
+			[
+				"Snippet: ",
+				"Snippet: hetml5"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/fotoimprecon/default/app/views/_shared/partials/kumbia/footer.phtml",
+		"/var/www/fotoimprecon/default/app/views/_shared/templates/default.phtml",
+		"/var/www/fotoimprecon/default/app/config/databases.ini",
+		"/var/www/fotoimprecon/default/app/config/config.ini",
+		"/var/www/kumbiaphp/default/app/controllers/personalinces_controller.php",
+		"/var/www/kumbiaphp/default/app/views/personalinces/index.phtml",
+		"/var/www/kumbiaphp/default/app/models/personalinces/personalinces.php",
+		"/var/www/kumbiaphp/default/app/config/databases.ini",
+		"/var/www/kumbiaphp/default/app/views/_shared/partials/psuv/cuerpo1.phtml",
+		"/var/www/kumbiaphp/default/app/config/config.ini",
+		"/var/www/kumbiaphp/default/app/models/personalinces.php",
+		"/var/www/kumbiaphp/default/app/controllers/Personalinces_controller.php",
+		"/var/www/kumbiaphp/default/app/views/index/index.phtml",
+		"/var/www/kumbiaphp/default/index.php",
+		"/var/www/kumbiaphp/default/app/views/_shared/partials/kumbia/footer.phtml",
+		"/var/www/incesequipos/index.php",
+		"/var/www/incesequipos/archivos/menu.php",
+		"/var/www/incesequipos/estilos/principal.css",
+		"/var/www/incesequipos/archivos/historial.php",
+		"/var/www/incesequipos/archivos/informetecnico.php",
+		"/var/www/incesequipos/archivos/listaimpresoras.php",
+		"/var/www/incesequipos/archivos/detallesimp.php",
+		"/var/www/incesequipos/estilos/principal.scss",
+		"/var/www/incesequipos/archivos/cambioconsumible.php",
+		"/var/www/incesequipos/procesos/proceso_guardar_trabajo.php",
+		"/var/www/incesequipos/archivos/agregarimpresora.php",
+		"/var/www/incesequipos/archivos/calculos.php",
+		"/var/www/incesequipos/archivos/agregarservicio.php",
+		"/var/www/incesequipos/archivos/stockximpresora.php",
+		"/var/www/incesequipos/procesos/proceso_agregar_cambio_toner.php",
+		"/var/www/incesequipos/funciones/funcion2.php",
+		"/var/www/incesequipos/funciones/adodb-time.inc.php",
+		"/var/www/incesequipos/procesos/proceso_guardar_cambio_toner.php",
+		"/var/www/incesequipos/archivos/agregarmodelos.php",
+		"/var/www/incesequipos/archivos/impresoravsconsumible.php",
+		"/var/www/incesequipos/archivos/consumibleximpresora.php",
+		"/var/www/incesequipos/procesos/proceso_guardar_cruce.php",
+		"/var/www/incesequipos/archivos/impresoradetalles.php",
+		"/var/www/incesequipos/archivos/consumibles.php",
+		"/var/www/incesequipos/archivos/barra3.php",
+		"/var/www/incesequipos/procesos/proceso_incluir_impresora.php",
+		"/var/www/incesequipos/archivos/modelosimpresoras2.php",
+		"/var/www/incesequipos/archivos/modelosimpresoras.php",
+		"/var/www/incesequipos/procesos/proceso_incluir_consumible.php",
+		"/var/www/incesequipos/archivos/mostrarmodelosimpresoras.php",
+		"/var/www/incesequipos/procesos/proceso_guardar_marca.php",
+		"/var/www/incesequipos/archivos/agregarmarca.php",
+		"/var/www/incesequipos/archivos/mostrarmarcas.php",
+		"/var/www/incesequipos/archivos/barra1.php",
+		"/var/www/incesequipos/procesos/proceso_guardar_modelo.php",
+		"/var/www/incesequipos/archivos/agregarmodelos_modal.php",
+		"/var/www/incesequipos/estilos/bootstrapmodal.css",
+		"/var/www/incesequipos/funciones/funcion1.php",
+		"/home/regino/Dropbox/TrabajosWeb/Trabajocapeodelef/capeodelef/archivos/autoregistro.php",
+		"/home/regino/Dropbox/TrabajosWeb/Trabajocapeodelef/capeodelef/procesos/proceso_update_socio.php",
+		"/var/www/incesequipos/equipos.sublime-project",
+		"/home/regino/Dropbox/TrabajosWeb/Trabajocapeodelef/capeodelef/archivos/menu.php",
+		"/var/www/incesequipos/archivos/untitled",
+		"/var/www/incesequipos/estilos/menu.scss",
+		"/var/www/cief2014/archivos/seccionales.php",
+		"/var/www/cief2014/archivos/menu.php",
+		"/var/www/incesfalcon/index.php",
+		"/var/www/incesfalcon/archivos/menu.php",
+		"/var/www/incesfalcon/estilos/principal.scss",
+		"/var/www/cief2014/index.php",
+		"/var/www/cief2014/estilos/principal.scss",
+		"/var/www/cief2014/archivos/votantes.php",
+		"/var/www/cief2014/archivos/mostrarvotante.php",
+		"/var/www/cief2014/procesos/proceso_buscar_votante.php",
+		"/var/www/wordpress/registro.php",
+		"/var/www/cief2014/funciones/funcion1.php",
+		"/var/www/cief2014/estilos/principal.css",
+		"/home/regino/Dropbox/TrabajosWeb/Trabajocapeodelef/capeodelef/estilos/principal.css",
+		"/var/www/incesfalcon/principal.scss",
+		"/home/regino/Dropbox/RecursosWeb/Bootstrap/bootstrap-3.0.3-dist.zip",
+		"/home/regino/Dropbox/TrabajosWeb/Trabajocapeodelef/cajadeahorro/index.php",
+		"/var/www/infoguarejous/index.php",
+		"/var/www/infoguarejous/archivos/impresorastodas.php",
+		"/var/www/infoguarejous/css/principal.css",
+		"/var/www/infoguarejous/archivos/menu.php",
+		"/var/www/infoguarejous/css/personalizado.scss",
+		"/var/www/infoguarejous/funciones/funcion2.php",
+		"/var/www/8d/archivos/mostrarultimosvotantes.php",
+		"/var/www/8d/archivos/votosunopordiez.php",
+		"/var/www/8d/archivos/resumenresp.php",
+		"/var/www/8d/archivos/resumenpatru.php",
+		"/var/www/8d/archivos/resumen1x10.php",
+		"/var/www/8d/archivos/electoresxmunicipio.php",
+		"/var/www/8d/archivos/buscarresp.php",
+		"/var/www/8d/archivos/ultimos20.php",
+		"/var/www/infoguarejous/css/foundation.css",
+		"/var/www/infoguarejous/funciones/funcion1.php",
+		"/var/www/infoguarejous/css/personalizado.css",
+		"/home/regino/.config/sublime-text-2/Packages/User/phpdocumentor.sublime-settings",
+		"/home/regino/.config/sublime-text-2/Packages/User/Package Control.sublime-settings",
+		"/var/www/8d/archivos/menu.php",
+		"/var/www/8d/index.php",
+		"/var/www/8d/css/principal.css",
+		"/var/www/8d/archivos/contenedorexitpool.php",
+		"/var/www/8d/funciones/funcion1.php",
+		"/var/www/8d/archivos/buscarpatru.php",
+		"/var/www/8d/procesos/proceso_buscar1x10.php",
+		"/home/regino/Dropbox/TrabajosWeb/teaminces/archivos/resumen.php",
+		"/var/www/8d/procesos/proceso_registrar_voto.php",
+		"/var/www/8d/archivos/exitpool.php",
+		"/var/www/8d/procesos/proceso_incluir_patrullero.php",
+		"/var/www/8d/procesos/proceso_mostrar_ultimosvotantes.php",
+		"/home/regino/Dropbox/TrabajosWeb/teaminces/archivos/diad.php",
+		"/home/regino/Dropbox/TrabajosWeb/teaminces/archivos/detalles.php",
+		"/var/www/8d/funciones/funcion2.php",
+		"/var/www/8d/archivos/proceso_incluir_patrullero.php",
+		"/var/www/8d/archivos/patrulleros.php",
+		"/var/www/8d/archivos/contenedor1x10.php",
+		"/var/www/8d/procesos/proceso_entrar.php",
+		"/var/www/8d/archivos/acceso.php",
+		"/var/www/8d/css/jquery.validity.css",
+		"/var/www/8d/js/jquery.validity.js",
+		"/var/www/8d/js/jquery.validity.lang.es.js",
+		"/home/regino/Dropbox/TrabajosWeb/planiphp/archivos/noautorizada.php",
+		"/var/www/8d/procesos/proceso_cerrar.php",
+		"/home/regino/.config/sublime-text-2/Packages/phpDocumentor/phpdocumentor.sublime-settings",
+		"/home/regino/.config/sublime-text-2/Packages/Package Control/Package Control.sublime-settings",
+		"/home/regino/.config/sublime-text-2/Packages/User/php.sublime-build",
+		"/home/regino/Dropbox/TrabajosWeb/planiphp/procesos/proceso_cerrar.php",
+		"/home/regino/Dropbox/RecursosWeb/imagenes/waiting.gif",
+		"/home/regino/Dropbox/TrabajosWeb/planiphp/index.php",
+		"/home/regino/Dropbox/TrabajosWeb/planiphp/archivos/izq.php",
+		"/home/regino/Dropbox/TrabajosWeb/planiphp/archivos/adminusuarios.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/var/www/kumbiaphp",
+			"div"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\n<",
+			"    \n",
+			" 	",
+			"include",
+			"default.phtml",
+			"      <",
+			"></",
+			"        	$(\"#",
+			"			<",
+			"AGOTADO",
+			"btnant",
+			"form",
+			"consumible",
+			"marcaconsumible",
+			"transparent",
+			"modelo",
+			"info",
+			"th",
+			"2",
+			"top-bar-section",
+			"transparent",
+			"columns",
+			"$(\"a\").click(function()\n{\n   var $toque=$(this,\"a\").getElementById();\n   alert($toque);\n})",
+			", ",
+			"include_once",
+			"mysql_fetch_array",
+			"div",
+			"small",
+			"twelve"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"li",
+			"tiny"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "default/app/views/_shared/templates/default.phtml",
+					"settings":
+					{
+						"buffer_size": 622,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								545,
+								545
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "default/app/views/_shared/partials/inicio/navbar.phtml",
+					"settings":
+					{
+						"buffer_size": 1694,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								220,
+								220
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "default/app/views/_shared/partials/inicio/footer.phtml",
+					"settings":
+					{
+						"buffer_size": 156,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38,
+								38
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 306.0,
+	"status_bar_visible": true
+}
