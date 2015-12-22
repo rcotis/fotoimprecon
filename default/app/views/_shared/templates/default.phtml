@@ -2,7 +2,7 @@
 <html lang="es">
  <head>
   <meta http-equiv='Content-type' content='text/html; charset=<?php echo APP_CHARSET ?>' />
-  <title>APLICACION PARA CONTABILIZAR LOS VOTOS CHAVISTAS</title>
+  <title>|:. SISTEMA PARA EL CONTROL DE LAS IMPRESORAS .:|</title>
   <!-- <?php Tag::css('bienvenida') ?> -->
   <!-- <?php Tag::css('style') ?> -->
   <?php Tag::css('bootstrap/bootstrap') ?>
@@ -11,11 +11,17 @@
 </head>
 <body>
 
+		<?php View::partial('inicio/navbar') ?>
 <div class="container">
-  <?php View::partial('inicio/navbar') ?>
-  <?php View::content(); ?>
-  <?php View::partial('inicio/footer') ?>
+	<!-- <div class="row"> -->
+	<!-- </div> -->
+	<!-- <div class="row"> -->
+		<?php View::content("cuerpo"); ?>
+	<!-- </div> -->
+	<!-- <div class="row"> -->
+	<!-- </div> -->
 </div>
+		<?php View::partial('inicio/footer') ?>
 </body>
 </html>
 <?php echo Tag::js('jquery/jquery.min') ?>
