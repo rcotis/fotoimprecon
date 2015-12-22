@@ -59,3 +59,11 @@ div.autocomplete ul li {
       cursor: pointer;
       font-size: 10px;
 }
+.navbar-default
+{
+	background-color: #ABD906 !important;  
+}
+.navbar-default .navbar-brand 
+{  
+   color: #FFFFDF !important;  
+}
